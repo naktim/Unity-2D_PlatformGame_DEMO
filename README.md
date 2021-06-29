@@ -1,7 +1,9 @@
 
 # Unity-2D_PlatformGame_DEMO
 
+简介：  
 2020年冬，根据教程实现的Unity 2D Platform Game Demo
+Unity Version 2020.2.2f1
 
 实现功能：  
 1.跳跃  
