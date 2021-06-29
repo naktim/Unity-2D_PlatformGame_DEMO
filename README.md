@@ -2,11 +2,11 @@
 # Unity-2D_PlatformGame_DEMO
 
 ## 简介：  
-2020年冬，根据教程实现的Unity 2D Platform Game Demo  
+2020年冬，为了学习unity，根据教程实现的Unity 2D Platform Game Demo  
 Unity Version 2020.2.2f1  
   
 ## 实现功能：  
-1.跳跃  
+1.移动、跳跃  
 2.释放炸弹，炸弹爆炸、移动  
 3.生命值、受击、死亡  
 4.怪物：普通攻击、技能、状态机实现巡逻、追击等
