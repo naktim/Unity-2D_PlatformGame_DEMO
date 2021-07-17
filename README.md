@@ -1,17 +1,17 @@
 
 # Unity-2D_PlatformGame_DEMO
 
-## 简介：  
+## 简介（概要）：  
 2020年冬，为了学习unity，根据教程实现的Unity 2D Platform Game Demo  
 Unity Version 2020.2.2f1  
   
-## 实现功能：  
-1.移动、跳跃  
-2.释放炸弹，炸弹爆炸、移动  
-3.生命值、受击、死亡  
-4.怪物：普通攻击、技能、状态机实现巡逻、追击等
-5.UI：血条、开始界面、暂停界面、结束界面  
-6.系统功能：开始游戏、关卡切换、存档、暂停、重新开始等  
+## 实现功能(実装済み機能)：  
+1.移动(Move)、跳跃(Jump)  
+2.释放炸弹，炸弹爆炸、移动(Bomb)  
+3.生命值(㏋)、受击(Be attacked)、死亡 (death)  
+4.怪物(Monster)：普通攻击(Attack)、技能(Skill)、状态机实现巡逻、追击(FSM使用して、簡単なAI作った。例えば、追撃、パトロールなど)等  
+5.UI：血条(HealthBar)、开始界面(Main Menu)、暂停界面(Pause Menu)、结束界面  (GameOver Menu)  
+6.系统功能：开始游戏(Game Start)、关卡切换(Level Change)、存档(Save)、暂停(Pause)、重新开始(Restart)等  
 7.TileMap绘制地图  
 
 ## 图片：  
