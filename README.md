@@ -2,7 +2,10 @@
 # Unity-2D_PlatformGame_DEMO
 
 ## 简介（概要）：  
-2020年冬，为了学习unity，根据教程实现的Unity 2D Platform Game Demo  
+2020年冬，为了学习unity，根据教程实现的Unity 2D Platform Game Demo。
+
+2020年冬、Unityプログラミングを勉強するために、チュートリアルを基づいて、作った2D Platform Game Demo。
+
 Unity Version 2020.2.2f1  
   
 ## 实现功能(実装済み機能)：  
