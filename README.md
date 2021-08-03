@@ -7,8 +7,11 @@
 2020年冬、Unityプログラミングを勉強するために、チュートリアルを基づいて、作った2D Platform Game Demo。
 
 Unity Version 2020.2.2f1  
-  
-## 実装済み機能：：  
+
+## 動画：　  
+ https://youtu.be/g48tuB8lBrk  
+ 
+## 実装済み機能：  
 
 1.Move、Jump  
 2.Bomb：爆発、Moveなど  
